@@ -1,5 +1,7 @@
 === Redirect 404 Error Page to Homepage or Custom Page ===
+
 Contributors: Bhupender Singh
+
 Tags: 404 error, custom page, redirect, home page, server error, redirection, permanent, post, seo, pages, manage, 301, 404, permalink
 Requires at least: 3.0
 Tested up to: 4.5.2
