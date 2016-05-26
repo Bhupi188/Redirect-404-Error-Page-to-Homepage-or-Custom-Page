@@ -1,16 +1,5 @@
 === Redirect 404 Error Page to Homepage or Custom Page ===
 
-Contributors: Bhupender Singh
-
-Tags: 404 error, custom page, redirect, home page, server error, redirection, permanent, post, seo, pages, manage, 301, 404, permalink
-Requires at least: 3.0
-Tested up to: 4.5.2
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Redirect 404 Error Page to Homepage or Custom Page.
-
 == Description ==
 
 Easily redirect 404 error page to another URL.
